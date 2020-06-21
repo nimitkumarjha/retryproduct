@@ -22,10 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
-<sonar.projectKey>AbdulAleemShaik01_product_final</sonar.projectKey>
-  <sonar.organization>abdulaleemshaik01</sonar.organization>
+<sonar.projectKey>nimitkumarjha_retryproduct</sonar.projectKey>
+  <sonar.organization>nimitkumarjha</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>bbccd63e679e6473a672f477bfc12e97db2841c2</sonar.login>
+  <sonar.login>9a240b2eb590d6b03371a2130b12c25618d3e365</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
